@@ -1,3 +1,5 @@
 var playlist = {Eminem: "without me"}
 
-function 
+function updatePlaylist(playlist, "Eminem", without me) {
+  return 
+}
